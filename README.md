@@ -7,8 +7,11 @@ In this notebook you can find a quick analysis of the results of the tournament 
 # Why analyze this?
 
 I myself love grappling as a sport and as a hobby. But mainly I was interested in a couple of things:
+
 -How were the matches won? 
+
 -What submissions were most common, and at what times were they most likely to occur?
+
 
 This work has given me important insight into the current grappling 'meta' and showed me on what to focus in my own training. More in the conclusion...
 
@@ -19,7 +22,7 @@ The data was gathered from [Kaggle](https://www.kaggle.com/datasets/matheusalves
 __Python__ was used for data cleaning, EDA and visualizations.
 The cleaned data was then also used to make a [Tableau Public Dashboard](https://public.tableau.com/views/proj1_17073084540380/Dashboard32?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-# Conclusions 
+# Conclusion
 I probably need to buy an instructional video on Heel Hooks ...
 But in all seriousness, this data analysis gave insight into a very important fact. The fundamentals like Arm Bars and Rear Naked Chokes are a huge part of the submissions repertoire. These are the fundamental techniques that you even learn on your first day of grappling/jiu jitsu/sambo training. And know you know why: they work even at the highest level.
 Of course as the results have shown, Heel hooks as the more "advanced" techniques are also prevalent. Heel hooks could be deployed from awkward and assumingly "bad" non-dominant positions. This coupled with their speed, control and unpredictablity is the reason why they are becoming more and more popular in the past 10 years.
